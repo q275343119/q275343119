@@ -33,6 +33,16 @@ I contribute across the [MTEB](https://github.com/embeddings-benchmark/mteb) and
 
 ---
 
+## Live Products
+
+### [Calendar Intelligence](https://calendar.plus1labs.com/)
+
+A developer-focused toolkit for business-day calculations, market hours, holiday lookup, settlement dates, timestamps, and timezone conversion—designed for developers and AI agents.
+
+[Visit Product →](https://calendar.plus1labs.com/)
+
+---
+
 ## Core Stack
 
 <p align="center">
